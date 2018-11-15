@@ -7,7 +7,7 @@
     </div>
 
     <p>{{ message }}</p>
-    <button v-on:click="reverseMessage">逆转消息</button>
+    <button v-on:click="reverseMessage">逆转消息1</button>
     <router-view/>
   </div>
 </template>
